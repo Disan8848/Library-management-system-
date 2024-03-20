@@ -1,0 +1,3 @@
+Monkey King,Jk Rowling,19,$2
+Rich,Simon Sinek,9,$1.5
+Code with Harry,John Smith,24,$1.5
